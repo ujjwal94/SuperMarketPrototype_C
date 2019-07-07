@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1443116220 source:c:\users\aakash\desktop\supermarketprototype\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
